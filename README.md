@@ -79,14 +79,19 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 
+![Screenshot 2024-03-15 103140](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/a3d45b13-cae1-45ea-996a-78ad14cddd78)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
+![WhatsApp Image 2024-03-15 at 10 50 04 AM](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/8db8f05d-fd6f-4263-9c1c-974850b7246a)
 
+![Screenshot 2024-03-15 103421](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/0f282066-9708-47c2-8fcd-a2ef7feeecad)
 
 
 ### Histogram Equalization of Grayscale Image.
 
 
+![Screenshot 2024-03-15 103558](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/dce8b4a2-7bb5-46d7-b24c-571ec3a3bade)
 
 
 ## Result: 
